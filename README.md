@@ -53,46 +53,13 @@ Building scalable backend systems using **Node.js**, **Express**, **PostgreSQL**
 
 ---
 
-## 🚀 Featured Projects
-
-### 🔹 WebQuery AI
-
-AI-powered web research platform built using
-
-Node.js • Express • React • Redis • BullMQ • Gemini API
-
-➡️ Repository
-
----
-
-### 🔹 OrderPulse
-
-Real-time order notification system
-
-PostgreSQL LISTEN/NOTIFY • Socket.IO • Express
-
-➡️ Repository
-
----
-
-### 🔹 Finance Dashboard
-
-Production-grade reporting dashboard
-
-RBAC • Redis • PostgreSQL • Async Jobs
-
-➡️ Repository
-
----
-
 ## 🌐 Connect
 
-<a href="[YOUR_LINKEDIN](https://www.linkedin.com/in/jagjott-singh-ajmani-13390a275/)">
+<a href="https://www.linkedin.com/in/jagjott-singh-ajmani-13390a275/">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="mailto:jagjotajmani075@gmail.com
-">
+<a href="mailto:jagjotajmani075@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
