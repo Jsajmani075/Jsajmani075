@@ -53,16 +53,22 @@ Building scalable backend systems using **Node.js**, **Express**, **PostgreSQL**
 
 ---
 
-## 🌐 Connect
 
-<a href="https://www.linkedin.com/in/jagjott-singh-ajmani-13390a275/">
+<!-- <a href="https://www.linkedin.com/in/jagjott-singh-ajmani-13390a275/">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="mailto:jagjotajmani075@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
-</a>
+<a href="mailto:jagjotajmani075@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a> -->
+## 🌐 Connect
 
+<p align="left">
+  <a href="https://www.linkedin.com/in/jagjott-singh-ajmani-13390a275/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:jagjotajmani075@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email"/>
+  </a>
+</p>
 <!-- <a href="YOUR_PORTFOLIO">
 <img src="https://skillicons.dev/icons?i=github" />
 </a> -->
