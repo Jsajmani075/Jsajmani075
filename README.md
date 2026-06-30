@@ -1,16 +1,103 @@
-## Hi there 👋
+# Hi 👋 I'm Jagjott Singh Ajmani
 
-<!--
-**Jsajmani075/Jsajmani075** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Engineer
 
-Here are some ideas to get you started:
+Building scalable backend systems using **Node.js**, **Express**, **PostgreSQL**, **Redis**, and **AWS**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 India • Open to Remote • Open to Relocation
+
+---
+
+## 🚀 About Me
+
+- 💼 1.5+ years building production backend systems
+- ⚡ Worked on a platform serving **50,000+ daily active users**
+- 💳 Built payment & reporting systems processing **35M+ transactions**
+- 📈 Improved API performance by **40%** using Redis caching & query optimization
+- 🏗 Passionate about distributed systems, backend architecture & system design
+- 🌍 Looking for Software Engineer opportunities worldwide
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=js,ts,python,cpp" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,redis" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react" />
+</p>
+
+### Cloud & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,git" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,postman" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 WebQuery AI
+
+AI-powered web research platform built using
+
+Node.js • Express • React • Redis • BullMQ • Gemini API
+
+➡️ Repository
+
+---
+
+### 🔹 OrderPulse
+
+Real-time order notification system
+
+PostgreSQL LISTEN/NOTIFY • Socket.IO • Express
+
+➡️ Repository
+
+---
+
+### 🔹 Finance Dashboard
+
+Production-grade reporting dashboard
+
+RBAC • Redis • PostgreSQL • Async Jobs
+
+➡️ Repository
+
+---
+
+## 🌐 Connect
+
+<a href="[YOUR_LINKEDIN](https://www.linkedin.com/in/jagjott-singh-ajmani-13390a275/)">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:jagjotajmani075@gmail.com
+">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+<!-- <a href="YOUR_PORTFOLIO">
+<img src="https://skillicons.dev/icons?i=github" />
+</a> -->
+
+---
