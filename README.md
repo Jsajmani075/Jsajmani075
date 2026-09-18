@@ -10,7 +10,7 @@ Building scalable backend systems using **Node.js**, **Express**, **PostgreSQL**
 
 ## 🚀 About Me
 
-- 💼 1.5+ years building production backend systems
+- 💼 1.8+ years building production backend systems
 - ⚡ Worked on a platform serving **50,000+ daily active users**
 - 💳 Built payment & reporting systems processing **35M+ transactions**
 - 📈 Improved API performance by **40%** using Redis caching & query optimization
