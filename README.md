@@ -2,20 +2,32 @@
 
 ### Software Engineer
 
-Building scalable backend systems using **Node.js**, **Express**, **PostgreSQL**, **Redis**, and **AWS**.
+I build and run backend systems for multi-tenant SaaS products: high-volume data, background jobs, third-party integrations, and the APIs other teams depend on.
 
-📍 India • Open to Remote • Open to Relocation
+📍 India. Open to remote roles and relocation.
 
 ---
 
-## 🚀 About Me
+## 🚀 What I've worked on
 
-- 💼 1.8+ years building production backend systems
-- ⚡ Worked on a platform serving **50,000+ daily active users**
-- 💳 Built payment & reporting systems processing **35M+ transactions**
-- 📈 Improved API performance by **40%** using Redis caching & query optimization
-- 🏗 Passionate about distributed systems, backend architecture & system design
-- 🌍 Looking for Software Engineer opportunities worldwide
+- Backend of a multi-tenant B2B2C SaaS platform serving **50,000+ daily active users**
+- **PostgreSQL range partitioning** across 35M+ transaction records: report query time 8s to 3s, peak DB CPU down 25%
+- **Redis caching and index tuning** that improved API response times by 40%
+- **Idempotent webhook ingestion** with retries across 5 third-party integrations
+- **Async job pipelines** on BullMQ and Redis, plus a multi-tier loyalty engine (p95 under 200 ms)
+- Currently building stage-based task verification workflows at DataFlow Group
+
+
+---
+
+## Projects
+
+| Project | What it is | Stack |
+|---|---|---|
+| [**WebQuery AI**](https://github.com/Jsajmani075/webQuery) | Scrapes public web pages and answers questions grounded only in the submitted content. Scraping and AI inference run through a job queue. | Node.js, Express, React, BullMQ, Redis, Gemini API |
+| [**OrderPulse**](https://github.com/Jsajmani075/order-pluse) | Ride-hailing backend with real-time updates and background jobs. | NestJS, PostgreSQL (LISTEN/NOTIFY), Socket.IO, BullMQ |
+| [**Finance Dashboard**](https://github.com/Jsajmani075/Finance_dashboard_system) | Role-based reporting platform with JWT auth, RBAC and paginated APIs. | Node.js, PostgreSQL, JWT |
+
 
 ---
 
